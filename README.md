@@ -8,7 +8,7 @@ The code has two main components:
 
 - the transmitter (ESP32)/receiver (ESP8266) code that sends the data over Wi-Fi using the ESP-NOW protocol, then interprets them as light sequences 
 
-### Frameworks/Libraries Needed:
+### Setup/Libraries Needed:
 
 #### For MIDI Signal Handling Code (in Java Processing IDE):
 
